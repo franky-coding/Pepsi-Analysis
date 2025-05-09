@@ -1,5 +1,5 @@
 # PepsiAnalysis
 Group Project of Analysis on PepsiCo
 
-#Instructions:
+# Instructions:
 - click 'Group 1 - PepsiCo.pdf' to open file and see presentation
